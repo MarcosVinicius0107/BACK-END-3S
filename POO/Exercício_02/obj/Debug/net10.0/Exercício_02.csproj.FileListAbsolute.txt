@@ -1,0 +1,15 @@
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.AssemblyInfoInputs.cache
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.AssemblyInfo.cs
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.csproj.CoreCompileInputs.cache
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.sourcelink.json
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\bin\Debug\net10.0\Exercício_02.exe
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\bin\Debug\net10.0\Exercício_02.deps.json
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\bin\Debug\net10.0\Exercício_02.runtimeconfig.json
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\bin\Debug\net10.0\Exercício_02.dll
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\bin\Debug\net10.0\Exercício_02.pdb
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.dll
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\refint\Exercício_02.dll
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.pdb
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\Exercício_02.genruntimeconfig.cache
+C:\Users\57721132835\Desktop\BACK-END-3S\POO\Exercício_02\obj\Debug\net10.0\ref\Exercício_02.dll
