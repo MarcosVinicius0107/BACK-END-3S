@@ -9,7 +9,7 @@ namespace Exercício_05
     {
         public double Salario;
 
-        public Funcionario(string nome, int idade, double salario)
+        public Funcionario(string nome, int idade, double salario) : base(nome, idade)
     
         {
             Salario = salario;
@@ -17,7 +17,7 @@ namespace Exercício_05
 
         public override void ExibirDados()
         {
-            pessoa.ExibirDados();
+            base.ExibirDados();
             Console.WriteLine($"Salário: {Salario}");
         }
     }

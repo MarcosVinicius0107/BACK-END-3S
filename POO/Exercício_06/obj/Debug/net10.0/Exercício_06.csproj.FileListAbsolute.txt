@@ -1,0 +1,15 @@
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\bin\Debug\net10.0\Exercício_06.exe
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\bin\Debug\net10.0\Exercício_06.deps.json
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\bin\Debug\net10.0\Exercício_06.runtimeconfig.json
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\bin\Debug\net10.0\Exercício_06.dll
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\bin\Debug\net10.0\Exercício_06.pdb
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.AssemblyInfoInputs.cache
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.AssemblyInfo.cs
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.csproj.CoreCompileInputs.cache
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.sourcelink.json
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.dll
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\refint\Exercício_06.dll
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.pdb
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\Exercício_06.genruntimeconfig.cache
+C:\Users\AMD\OneDrive\Desktop\BACK-END-3S\POO\Exercício_06\obj\Debug\net10.0\ref\Exercício_06.dll
