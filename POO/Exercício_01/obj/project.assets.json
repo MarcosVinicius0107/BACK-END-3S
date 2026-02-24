@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AMD\\.nuget\\packages\\": {}
+    "C:\\Users\\57721132835\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AMD\\OneDrive\\Desktop\\BACK-END-3S\\POO\\Exercício_01\\Exercício_01.csproj",
+      "projectUniqueName": "C:\\Users\\57721132835\\Desktop\\BACK-END-3S\\POO\\Exercício_01\\Exercício_01.csproj",
       "projectName": "Exercício_01",
-      "projectPath": "C:\\Users\\AMD\\OneDrive\\Desktop\\BACK-END-3S\\POO\\Exercício_01\\Exercício_01.csproj",
-      "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AMD\\OneDrive\\Desktop\\BACK-END-3S\\POO\\Exercício_01\\obj\\",
+      "projectPath": "C:\\Users\\57721132835\\Desktop\\BACK-END-3S\\POO\\Exercício_01\\Exercício_01.csproj",
+      "packagesPath": "C:\\Users\\57721132835\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\57721132835\\Desktop\\BACK-END-3S\\POO\\Exercício_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AMD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\57721132835\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
