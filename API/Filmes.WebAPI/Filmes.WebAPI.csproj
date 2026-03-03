@@ -7,12 +7,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\imagens\05bcb978-c652-4674-b585-a0e34a0e2184.jpeg" />
+    <Content Remove="wwwroot\imagens\063482cf-0c0b-44f9-9923-ca96dcb34c34.jpg" />
+    <Content Remove="wwwroot\imagens\10e6ea0e-0d4b-4ad9-8d89-792f16c5813e.jpg" />
+    <Content Remove="wwwroot\imagens\30759ec0-a4ca-4a7c-ab6c-64d70c07cabb.jpg" />
+    <Content Remove="wwwroot\imagens\3bb5a4d1-4633-49e5-b3bb-bf5a949c1d64.jpeg" />
+    <Content Remove="wwwroot\imagens\444fbfc7-8704-4d51-8042-0d2b20519bdc.jpg" />
+    <Content Remove="wwwroot\imagens\56352584-abe2-4dd7-9dad-03d78be0d40e.jpg" />
+    <Content Remove="wwwroot\imagens\59869495-09b2-46a4-a7ad-50f6981d3b85.jpg" />
+    <Content Remove="wwwroot\imagens\9fc28e3e-dc05-4f6a-990b-c5db0f7b0375.jpg" />
+    <Content Remove="wwwroot\imagens\ae486098-5b05-423d-8f1e-a89c5d03e164.jpg" />
+    <Content Remove="wwwroot\imagens\b71bc404-4233-4ee1-83ce-e656666a3df6.jpg" />
+    <Content Remove="wwwroot\imagens\ca043d49-1e02-4dc3-ab2e-9424061a982c.jpg" />
+    <Content Remove="wwwroot\imagens\eef514bd-2baf-4eb2-bb6f-511f2c61c2c2.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.3">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.4" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.16.0" />
   </ItemGroup>
 
 </Project>
