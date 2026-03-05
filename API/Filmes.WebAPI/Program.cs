@@ -90,6 +90,16 @@ builder.Services.AddSwaggerGen(Options =>
 
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", builder =>
+    {
+        builder.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 //Adiciona o serviço de Controllers
 builder.Services.AddControllers();
 var app = builder.Build();
@@ -104,6 +114,8 @@ if (app.Environment.IsDevelopment())
         options.RoutePrefix = string.Empty;
     });
 }
+
+app.UseStaticFiles();
 
 app.UseAuthentication();
 
